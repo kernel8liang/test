@@ -1,0 +1,3 @@
+[submodule "sub/vimfiles"]
+	path = sub/vimfiles
+	url = https://github.com/kernel8liang/vimfiles
